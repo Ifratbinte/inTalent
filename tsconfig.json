@@ -1,0 +1,45 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "#components/*": ["./components/*"],
+      "#container/*": ["./container/*"],
+      "#utils/*": ["./utils/*"],
+      "#interfaces/*": ["./interfaces/*"],
+      "#helpers/*": ["./helpers/*"],
+      "#stores/*": ["./stores/*"],
+      "#hooks/*": ["./hooks/*"],
+      "#__mocks__/*": ["./__mocks__/*"]
+    },
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "tailwind.config.js",
+    "hooks/use-query.jsx",
+    "helpers/toaster.js",
+    "app/agent/events/active.tsx",
+    "app/agent/talents/page"
+  ],
+  "exclude": ["node_modules"]
+}

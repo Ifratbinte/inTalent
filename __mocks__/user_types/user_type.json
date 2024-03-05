@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "message": "Success!",
+  "data": [
+    {
+      "id": 2,
+      "title": "Agent",
+      "banner": "./uploads/assets/agent-bg-1705491075335.png",
+      "created_at": "2024-01-17T11:31:15.351Z",
+      "updated_at": "2024-01-17T11:31:15.351Z",
+      "deleted_at": null
+    },
+    {
+      "id": 1,
+      "title": "Talent",
+      "banner": "./uploads/assets/talent-bg-1705501286024.png",
+      "created_at": "2024-01-15T09:37:25.577Z",
+      "updated_at": "2024-01-17T14:21:26.120Z",
+      "deleted_at": null
+    }
+  ]
+}

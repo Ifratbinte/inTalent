@@ -1,0 +1,15 @@
+{
+  "statusCode": 200,
+  "message": "Success!",
+  "data": {
+    "id": 4,
+    "user_id": 6,
+    "dob": null,
+    "name": "MD Rokibul Islam",
+    "language_id": null,
+    "location_id": 9,
+    "created_at": "2024-01-22T16:49:00.806Z",
+    "updated_at": "2024-01-22T16:49:00.806Z",
+    "deleted_at": null
+  }
+}

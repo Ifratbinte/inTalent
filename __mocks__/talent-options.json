@@ -1,0 +1,264 @@
+{
+    "location": [
+        {
+            "id": 1,
+            "name": "Dhaka"
+        },
+        {
+            "id": 2,
+            "name": "Cumilla"
+        },
+        {
+            "id": 3,
+            "name": "CTG"
+        },
+        {
+            "id": 4,
+            "name": "Rajshahi"
+        }
+    ],
+    "category": [
+        {
+            "thumb": "/images/avatar/avatar-1.png",
+            "name": "Model"
+        },
+        {
+            "thumb": "/images/avatar/avatar-1.png",
+            "name": "Photographer"
+        },
+        {
+            "thumb": "/images/avatar/avatar-1.png",
+            "name": "Hostess & Usher"
+        },
+        {
+            "thumb": "/images/avatar/avatar-1.png",
+            "name": "Actor & Actress"
+        },
+        {
+            "thumb": "/images/avatar/avatar-1.png",
+            "name": "MC & Interpreter"
+        }
+    ],
+    "unit": [
+        {
+            "name": "Inch"
+        },
+        {
+            "name": "CM"
+        }
+    ],
+    "gender": [
+        {
+            "name": "Male"
+        },
+        {
+            "name": "Female"
+        }
+    ],
+    "height": [
+        {
+            "id": 1,
+            "name": "1.78 / 5,7"
+        },
+        {
+            "id": 2,
+            "name": "1.80 / 5,8"
+        },
+        {
+            "id": 3,
+            "name": "1.82 / 5,9"
+        }
+    ],
+    "weight": [
+        {
+            "id": 1,
+            "name": "40"
+        },
+        {
+            "id": 2,
+            "name": "50"
+        },
+        {
+            "id": 3,
+            "name": "60"
+        }
+    ],
+    "bust": [
+        {
+            "id": 1,
+            "name": "32"
+        },
+        {
+            "id": 2,
+            "name": "34"
+        },
+        {
+            "id": 3,
+            "name": "36"
+        }
+    ],
+    "waist": [
+        {
+            "id": 1,
+            "name": "32"
+        },
+        {
+            "id": 2,
+            "name": "36"
+        },
+        {
+            "id": 3,
+            "name": "38"
+        }
+    ],
+    "hips": [
+        {
+            "id": 1,
+            "name": "32"
+        },
+        {
+            "id": 2,
+            "name": "36"
+        },
+        {
+            "id": 3,
+            "name": "38"
+        }
+    ],
+    "eyes": [
+        {
+            "id": 1,
+            "name": "Brown"
+        },
+        {
+            "id": 2,
+            "name": "Gray"
+        },
+        {
+            "id": 3,
+            "name": "Blue"
+        },
+        {
+            "id": 4,
+            "name": "Green"
+        },
+        {
+            "id": 5,
+            "name": "Hazel"
+        }
+    ],
+    "hair": [
+        {
+            "id": 1,
+            "name": "Black"
+        },
+        {
+            "id": 2,
+            "name": "Blonde"
+        },
+        {
+            "id": 3,
+            "name": "Red"
+        },
+        {
+            "id": 4,
+            "name": "Grey"
+        },
+        {
+            "id": 5,
+            "name": "Brown"
+        },
+        {
+            "id": 6,
+            "name": "Auburn"
+        }
+    ],
+    "dress_size": [
+        {
+            "id": 1,
+            "name": "4(US)/8(UK)/36(EU)"
+        },
+        {
+            "id": 2,
+            "name": "6(US)/10(UK)/38(EU)"
+        },
+        {
+            "id": 3,
+            "name": "8(US)/12(UK)/40(EU)"
+        },
+        {
+            "id": 3,
+            "name": "10(US)/14(UK)/42(EU)"
+        },
+        {
+            "id": 3,
+            "name": "12(US)/14(UK)/44(EU)"
+        }
+    ],
+    "shoe_size": [
+        {
+            "id": 1,
+            "name": "7(US)/5(UK)/38(EU)"
+        },
+        {
+            "id": 2,
+            "name": "8(US)/6(UK)/39(EU)"
+        },
+        {
+            "id": 3,
+            "name": "9(US)/7(UK)/40(EU)"
+        },
+        {
+            "id": 3,
+            "name": "10(US)/8(UK)/41(EU)"
+        },
+        {
+            "id": 3,
+            "name": "11(US)/9(UK)/42(EU)"
+        }
+    ],
+    "business_cate": [
+        {
+            "name": "Individual"
+        },
+        {
+            "name": "Company"
+        }
+    ],
+    "language": [
+        {
+            "name": "English"
+        },
+        {
+            "name": "Bengali"
+        },
+        {
+            "name": "Spanish"
+        }
+    ],
+    "state": [
+        {
+            "id": "1",
+            "name": "state 1"
+        },
+        {
+            "id": "2",
+            "name": "state 2"
+        },
+        {
+            "id": "3",
+            "name": "state 3"
+        }
+    ],
+    "country": [
+        {
+            "name": "Bangladesh"
+        },
+        {
+            "name": "canada"
+        },
+        {
+            "name": "USA"
+        }
+    ]
+}

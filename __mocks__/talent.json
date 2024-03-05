@@ -1,0 +1,58 @@
+{
+    "top_talent": [
+        {
+            "badge": "Category",
+            "thumb": "/images/thumb/talent/card-1.png",
+            "avatar": "/images/avatar/avatar-4.png",
+            "title": "Elizabeth P.",
+            "total_events": 42
+        },
+        {
+            "badge": "Category",
+            "thumb": "/images/thumb/talent/card-1.png",
+            "avatar": "/images/avatar/avatar-4.png",
+            "title": "Elizabeth P.",
+            "total_events": 42
+        },
+        {
+            "badge": "Category",
+            "thumb": "/images/thumb/talent/card-1.png",
+            "avatar": "/images/avatar/avatar-4.png",
+            "title": "Elizabeth P.",
+            "total_events": 42
+        }
+    ],
+    "available_talents": [
+        {
+            "badge": "Category",
+            "thumb": "/images/avatar/avt-1.png",
+            "talent_name": "Mike B.",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit  amet adipiscing elit...",
+            "event": "32"
+        },
+        {
+            "badge": "Category",
+            "thumb": "/images/avatar/avt-2.png",
+            "talent_name": "Maddie S.",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit  amet adipiscing elit...",
+            "event": "13"
+        },
+        {
+            "badge": "Category",
+            "thumb": "/images/thumb/event/card-13.png",
+            "talent_name": "Vanessa W.",
+            "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit  amet adipiscing elit...",
+            "event": "20"
+        }
+    ],
+    "talent_details": {
+        "badge": "Model",
+        "thumb": "/images/thumb/talent/card-3.png",
+        "avatar": "/images/avatar/avatar-5.png",
+        "talent_name": "Laqwisha J.",
+        "total_event": 17,
+        "badge_OTP": true,
+        "viewers": 1571
+        
+    }
+}

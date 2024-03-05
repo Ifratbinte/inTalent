@@ -1,0 +1,31 @@
+{
+  "statusCode": 200,
+  "message": "Success!",
+  "data": [
+    {
+      "id": 1,
+      "user_id": 2,
+      "dob": "1998-04-12T14:23:26.000Z",
+      "gender": "female",
+      "about_me": "Khilkhet",
+      "height": 1,
+      "weight": 2,
+      "bust": 2,
+      "waist": 2,
+      "hips": 2,
+      "eyes": "Brown",
+      "hair": "Black",
+      "dress_size": 1,
+      "dress_size_unit": null,
+      "shoe_size": 1,
+      "shoe_size_unit": null,
+      "discipline_id": 4,
+      "portfolio": "C:\\fakepath\\card-3.png",
+      "country_id": 1,
+      "is_open_to_work": true,
+      "created_at": "2024-01-17T14:25:06.833Z",
+      "updated_at": "2024-01-17T14:25:06.833Z",
+      "deleted_at": null
+    }
+  ]
+}

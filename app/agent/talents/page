@@ -1,0 +1,69 @@
+// "use client";
+// import CustomTab from "#components/common/tab/customTab";
+// import { useUser } from "@auth0/nextjs-auth0/client";
+// import React, { useState } from "react";
+// import { BsFillChatLeftFill, BsFillFileEarmarkFill } from "react-icons/bs";
+// import { FaSearch } from "react-icons/fa";
+// import { IoNotifications } from "react-icons/io5";
+// import Event from "../events/page";
+// import Message from "../messages/page";
+// import Notification from "../notifications/page";
+// import TalentSearch from "./page";
+
+// type TabsType = {
+//   label: string;
+//   icon: any;
+//   index: number;
+//   Component: React.FC<{}>;
+// }[];
+
+// // Tabs Array
+// const tabs: TabsType = [
+//   {
+//     label: "Talent",
+//     icon: <FaSearch />,
+//     index: 1,
+//     Component: TalentSearch,
+//   },
+//   {
+//     label: "Event",
+//     icon: <BsFillFileEarmarkFill />,
+//     index: 2,
+//     Component: Event,
+//   },
+//   {
+//     label: "Massages",
+//     icon: <BsFillChatLeftFill />,
+//     index: 3,
+//     Component: Message,
+//   },
+//   {
+//     label: "Notifications",
+//     icon: <IoNotifications />,
+//     index: 4,
+//     Component: Notification,
+//   },
+// ];
+
+// const EventSearch = () => {
+//   const { user, error, isLoading } = useUser();
+//   const [selectedTab, setSelectedTab] = useState<number>(tabs[0].index);
+
+//   return (
+//     <>
+//       {/* <Header
+//         avatar="/images/avatar/avatar-3.png"
+//         title="Talent Search"
+//         favourites={<FaHeart />}
+//         search={<BsSearch />}
+//       /> */}
+//       <CustomTab
+//         selectedTab={selectedTab}
+//         onClick={setSelectedTab}
+//         tabs={tabs}
+//       />
+//     </>
+//   );
+// };
+
+// export default EventSearch;

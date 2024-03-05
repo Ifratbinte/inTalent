@@ -1,0 +1,171 @@
+{
+  "top_event": [
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-1.png",
+      "title": "Dubai fashion week",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Dubai, UAE",
+      "published_date": "06 Jan 2023",
+      "client": "Jon Doe",
+      "rating": "4.87",
+      "review": 413
+    },
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-2.png",
+      "title": "New year celebration",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Abu Dabi, UAE",
+      "published_date": "06 Jan 2023",
+      "client": "Jon Doe",
+      "rating": "4.87",
+      "review": 413
+    },
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-1.png",
+      "title": "Dubai fashion week",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "location": "Dubai, UAE",
+      "published_date": "06 Jan 2023",
+      "client": "Jon Doe",
+      "rating": "4.87",
+      "review": 413
+    }
+  ],
+  "open_event": [
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-11.png",
+      "title": "College fashion show",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "location": "Dubai, United Arab Emirates",
+      "time": "Open till 30 January 2023"
+    },
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-12.png",
+      "title": "Madrid cultural week",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "location": "Madrid, Spain",
+      "time": "Open till 16 March 2023"
+    },
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-13.png",
+      "title": "Makeup convention",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "location": "Dubai, United Arab Emirates",
+      "time": "Open till 30 January 2023"
+    }
+  ],
+  "favourites_event": [
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-11.png",
+      "title": "College fashion show",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "location": "Dubai, United Arab Emirates",
+      "time": "Open till 30 January 2023"
+    },
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-12.png",
+      "title": "Madrid cultural week",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "location": "Madrid, Spain",
+      "time": "Open till 16 March 2023"
+    },
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-13.png",
+      "title": "Makeup convention",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "location": "Dubai, United Arab Emirates",
+      "time": "Open till 30 January 2023"
+    }
+  ],
+  "top_event_details": {
+    "badge": "Category",
+    "thumb": "/images/thumb/event/card-5.png",
+    "title": "Dubai fashion week",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "location": "Dubai, UAE",
+    "published_date": "06 Jan 2023",
+    "start_date": "27 Jan 2023",
+    "client": "Jon Doe",
+    "rating": "4.87",
+    "review": 413,
+    "location_details": "Dubai, United Arab Emirates",
+    "date": "Job open till 30 January 2023",
+    "pay": "$25.00 per hour"
+  },
+  "event_cate": [
+    {
+      "title": "Date Created"
+    },
+    {
+      "title": "Ascending"
+    },
+    {
+      "title": "Descending"
+    },
+    {
+      "title": "Rating"
+    },
+    {
+      "title": "Most Popular"
+    }
+  ],
+  "active_event": [
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-11.png",
+      "title": "College fashion show",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "location": "Dubai, United Arab Emirates",
+      "time": "Started on January 30th 2023"
+    },
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-12.png",
+      "title": "Dance festival 2023",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "location": "Dubai, United Arab Emirates",
+      "time": "Open till 30 January 2023"
+    }
+  ],
+  "inactive_event": [
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-12.png",
+      "title": "Madrid cultural week",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "location": "Madrid, Spain",
+      "time": "16 March 2023"
+    },
+    {
+      "badge": "Category",
+      "thumb": "/images/thumb/event/card-13.png",
+      "title": "Makeup convention",
+      "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "location": "Dubai, United Arab Emirates",
+      "time": "30 January 2023"
+    }
+  ],
+  "contract": [
+    {
+      "id": 1,
+      "title": "Fixed"
+    },
+    {
+      "id": 2,
+      "title": "Hourly"
+    }
+  ]
+}

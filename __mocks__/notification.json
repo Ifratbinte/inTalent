@@ -1,0 +1,27 @@
+[
+    {
+        "avatar": "/images/avatar/avatar-1.png",
+        "notification_text": "There Williams invited you to an event",
+        "date": "Jan 11"
+    },
+    {
+        "avatar": "/images/avatar/avatar-2.png",
+        "notification_text": "Ruth Jones invited you to an event",
+        "date": "Jan 7"
+    },
+    {
+        "avatar": "/images/avatar/avatar-3.png",
+        "notification_text": "Kelly Smith invited you to an event",
+        "date": "Dec 27"
+    },
+    {
+        "avatar": "/images/avatar/avatar-4.png",
+        "notification_text": "You have not accepted the contract",
+        "date": "Dec 20"
+    },
+    {
+        "avatar": "/images/avatar/avatar-2.png",
+        "notification_text": "There are 6 top events near you",
+        "date": "Nov 18"
+    }
+]

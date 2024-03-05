@@ -1,0 +1,57 @@
+{
+  "statusCode": 200,
+  "message": "Success!",
+  "data": [
+    {
+      "id": 1,
+      "user_id": 3,
+      "dob": null,
+      "name": "Talent User",
+      "language_id": null,
+      "location_id": 6,
+      "created_at": "2024-01-17T17:36:27.037Z",
+      "updated_at": "2024-01-17T17:36:27.037Z",
+      "deleted_at": null
+    },
+    {
+      "id": 2,
+      "user_id": 4,
+      "dob": null,
+      "name": "kazi ifrat",
+      "language_id": null,
+      "location_id": 7,
+      "created_at": "2024-01-18T14:14:52.980Z",
+      "updated_at": "2024-01-18T14:14:52.980Z",
+      "deleted_at": null
+    },
+    {
+      "id": 3,
+      "user_id": 5,
+      "dob": null,
+      "name": "No name",
+      "language_id": null,
+      "location_id": 8,
+      "created_at": "2024-01-19T13:59:38.103Z",
+      "updated_at": "2024-01-19T13:59:38.103Z",
+      "deleted_at": null
+    },
+    {
+      "id": 4,
+      "user_id": 6,
+      "dob": null,
+      "name": "MD Rokibul Islam",
+      "language_id": null,
+      "location_id": 9,
+      "created_at": "2024-01-22T16:49:00.806Z",
+      "updated_at": "2024-01-22T16:49:00.806Z",
+      "deleted_at": null
+    }
+  ],
+  "agent_details": {
+    "badge": "Company",
+    "thumb": "/images/thumb/agent/card-3.png",
+    "avatar": "/images/avatar/avatar-5.png",
+    "agent_name": "Agent Company",
+    "total_event": 17
+  }
+}

@@ -1,0 +1,95 @@
+.img {
+  height: 100px;
+  width: 100px;
+  border: "1px dotted gray";
+  border-style: dotted;
+  background-color: rgb(212, 212, 212);
+  border-radius: 50%;
+  font-weight: 600;
+  font-size: 14px;
+}
+.imgDefault {
+  height: 100px;
+  width: 100px;
+  border: "1px dotted gray";
+}
+@media only screen and (max-width: 600px) {
+  .imgDefault {
+    height: 100px;
+    width: 100px;
+    border: "1px dotted gray";
+  }
+}
+
+.img {
+  z-index: 999;
+}
+.imgAfterUpload:hover {
+  width: 100px;
+  border: "1px dotted gray";
+  border-style: dotted;
+  color: rgb(168, 164, 164);
+  border-radius: 50%;
+  font-weight: 500;
+  font-size: 14px;
+  z-index: -2;
+}
+
+/* Parent Container */
+.content_img {
+  position: relative;
+  width: 100px;
+  /* height: 100px;  */
+  float: left;
+}
+
+/* Child Text Container */
+.content_img .update {
+  height: auto;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: rgb(119, 115, 115);
+  border-radius: 50%;
+  color: black;
+  font-size: 14px;
+  font-weight: 800;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: visibility 0s, opacity 0.5s linear;
+  transition: visibility 0s, opacity 0.5s linear;
+}
+.content_img .delete {
+  height: 20px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transition: visibility 0s, opacity 0.5s linear;
+  transition: visibility 0s, opacity 0.5s linear;
+}
+.content_img .update p {
+  background: white;
+  text-align: center;
+  margin-top: 50%;
+}
+
+/* Hover on Parent Container */
+.content_img:hover {
+  cursor: pointer;
+}
+
+.content_img:hover .update {
+  width: 100px;
+  height: 100%;
+  visibility: visible;
+  opacity: 0.8;
+  border: 1px dotted red;
+}
+.content_img:hover .delete {
+  width: 20px;
+  height: 20px;
+  visibility: visible;
+  opacity: 1;
+}

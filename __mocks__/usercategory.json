@@ -1,0 +1,34 @@
+{
+    "talent": [
+        {
+            "id": 1,
+            "avatar": "/images/avatar/avatar-1.png",
+            "category": "Model",
+            "value": "model"
+        },
+        {
+            "id": 2,
+            "avatar": "/images/avatar/avatar-1.png",
+            "category": "Photographer",
+            "value": "photographer"
+        },
+        {
+            "id": 3,
+            "avatar": "/images/avatar/avatar-1.png",
+            "category": "Hostage",
+            "value": "hostage"
+        },
+        {
+            "id": 4,
+            "avatar": "/images/avatar/avatar-1.png",
+            "category": "Actor & Actress",
+            "value": "actor"
+        },
+        {
+            "id": 5,
+            "avatar": "/images/avatar/avatar-1.png",
+            "category": "Interpreter",
+            "value": "interpreter"
+        }
+    ]
+}

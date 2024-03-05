@@ -1,0 +1,24 @@
+{
+    "welcome": [
+        {
+            "title": "Welcome to a global talent network!",
+            "thumb": "/images/thumb/welcome/thumb-1.png",
+            "description": "Create your profile and showcase your talent working on top events around the globe."
+        },
+        {
+            "title": "Find the best events for you and apply easily!",
+            "thumb": "/images/thumb/welcome/thumb-2.png",
+            "description": "Find top events in the entertainment industry and apply to the ones that interest you the most."
+        },
+        {
+            "title": "Collaborate with top clients around the globe",
+            "thumb": "/images/thumb/welcome/thumb-3.png",
+            "description": "Create your profile, chat, apply to events, connect with clients and companies within the industry, and get more done."
+        },
+        {
+            "title": "Receive payments easily once your work is completed",
+            "thumb": "/images/thumb/welcome/thumb-4.png",
+            "description": "See your transactions, get payment, and receive great recommendations from clients."
+        }
+    ]
+}

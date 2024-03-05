@@ -1,0 +1,170 @@
+{
+  "paymentDetails": [
+    {
+      "event": {
+        "id": 1,
+        "title": "Iconic Fashion Event",
+        "owner_id": 2,
+        "category_id": 2,
+        "description": "Are you working on a new fashion event? You must be definitely passionate about style and culture. Your vision summons up fashion terms like glamorous, sophisticated, dazzling, cutting-edge, and vogue.",
+        "location_id": 3,
+        "exp_date": null,
+        "price": 50,
+        "duration": 72,
+        "disciplines_id": 4,
+        "status": "in_progress",
+        "price_type": "hourly",
+        "image": "https://in-talent-project.s3.us-east-1.amazonaws.com/iconic-fashion-event__1709102055089.jpeg",
+        "created_at": "2023-02-28T06:34:19.479Z",
+        "updated_at": "2024-02-28T06:34:19.479Z",
+        "deleted_at": null,
+        "owner": {
+          "first_name": "Jack",
+          "last_name": "Sparrow"
+        }
+      },
+      "type": "PENDING",
+      "amount": 200.5,
+      "created_at": "2024-02-29T03:59:07.215Z",
+      "updated_at": "2024-02-29T03:59:07.215Z",
+      "deleted_at": null
+    },
+    {
+      "event": {
+        "id": 1,
+        "title": "Iconic Fashion Event",
+        "owner_id": 2,
+        "category_id": 2,
+        "description": "Are you working on a new fashion event? You must be definitely passionate about style and culture. Your vision summons up fashion terms like glamorous, sophisticated, dazzling, cutting-edge, and vogue.",
+        "location_id": 3,
+        "exp_date": null,
+        "price": 50,
+        "duration": 72,
+        "disciplines_id": 4,
+        "status": "in_progress",
+        "price_type": "hourly",
+        "image": "https://in-talent-project.s3.us-east-1.amazonaws.com/iconic-fashion-event__1709102055089.jpeg",
+        "created_at": "2024-02-28T06:34:19.479Z",
+        "updated_at": "2024-02-28T06:34:19.479Z",
+        "deleted_at": null,
+        "owner": {
+          "first_name": "Model",
+          "last_name": "One"
+        }
+      },
+      "type": "PENDING",
+      "amount": 200.5,
+      "created_at": "2024-02-29T03:59:07.215Z",
+      "updated_at": "2024-02-29T03:59:07.215Z",
+      "deleted_at": null
+    },
+    {
+      "event": {
+        "id": 1,
+        "title": "Iconic Fashion Event",
+        "owner_id": 2,
+        "category_id": 2,
+        "description": "Are you working on a new fashion event? You must be definitely passionate about style and culture. Your vision summons up fashion terms like glamorous, sophisticated, dazzling, cutting-edge, and vogue.",
+        "location_id": 3,
+        "exp_date": null,
+        "price": 50,
+        "duration": 72,
+        "disciplines_id": 4,
+        "status": "in_progress",
+        "price_type": "hourly",
+        "image": "https://in-talent-project.s3.us-east-1.amazonaws.com/iconic-fashion-event__1709102055089.jpeg",
+        "created_at": "2024-02-28T06:34:19.479Z",
+        "updated_at": "2024-02-28T06:34:19.479Z",
+        "deleted_at": null,
+        "owner": {
+          "first_name": "Model",
+          "last_name": "One"
+        }
+      },
+      "type": "PENDING",
+      "amount": 200.5,
+      "created_at": "2024-02-29T03:59:07.215Z",
+      "updated_at": "2024-02-29T03:59:07.215Z",
+      "deleted_at": null
+    },
+    {
+      "event": {
+        "id": 1,
+        "title": "ICT 2024 New Event",
+        "owner_id": 2,
+        "category_id": 2,
+        "description": "Are you working on a new fashion event? You must be definitely passionate about style and culture. Your vision summons up fashion terms like glamorous, sophisticated, dazzling, cutting-edge, and vogue.",
+        "location_id": 3,
+        "exp_date": null,
+        "price": 50,
+        "duration": 72,
+        "disciplines_id": 4,
+        "status": "in_progress",
+        "price_type": "hourly",
+        "image": "https://in-talent-project.s3.us-east-1.amazonaws.com/iconic-fashion-event__1709102055089.jpeg",
+        "created_at": "2023-02-28T06:34:19.479Z",
+        "updated_at": "2024-02-28T06:34:19.479Z",
+        "deleted_at": null,
+        "owner": {
+          "first_name": "Model",
+          "last_name": "One"
+        }
+      },
+      "type": "PENDING",
+      "amount": 200.5,
+      "created_at": "2024-02-29T03:59:07.215Z",
+      "updated_at": "2024-02-29T03:59:07.215Z",
+      "deleted_at": null
+    }
+  ],
+  "histories": [
+    {
+      "title": "Payment received",
+      "payment_type": "CREDITED",
+      "amount": 200.5,
+      "created_at": "2024-02-29T03:59:07.215Z",
+      "updated_at": "2024-02-29T03:59:07.215Z",
+      "deleted_at": null
+    },
+    {
+      "title": "Withdrawal request",
+      "payment_type": "DEBITED",
+      "amount": 200.5,
+      "created_at": "2024-02-29T03:59:07.215Z",
+      "updated_at": "2024-02-29T03:59:07.215Z",
+      "deleted_at": null
+    },
+    {
+      "title": "Pending request",
+      "payment_type": "PENDING",
+      "amount": 200.5,
+      "created_at": "2024-02-29T03:59:07.215Z",
+      "updated_at": "2024-02-29T03:59:07.215Z",
+      "deleted_at": null
+    },
+    {
+      "title": "Payment received",
+      "payment_type": "CREDITED",
+      "amount": 200.5,
+      "created_at": "2024-02-29T03:59:07.215Z",
+      "updated_at": "2024-02-29T03:59:07.215Z",
+      "deleted_at": null
+    },
+    {
+      "title": "Withdrawal request",
+      "payment_type": "DEBITED",
+      "amount": 200.5,
+      "created_at": "2024-02-29T03:59:07.215Z",
+      "updated_at": "2024-02-29T03:59:07.215Z",
+      "deleted_at": null
+    },
+    {
+      "title": "Pending request",
+      "payment_type": "PENDING",
+      "amount": 200.5,
+      "created_at": "2024-02-29T03:59:07.215Z",
+      "updated_at": "2024-02-29T03:59:07.215Z",
+      "deleted_at": null
+    }
+  ]
+}

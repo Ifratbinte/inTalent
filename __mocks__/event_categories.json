@@ -1,0 +1,30 @@
+{
+  "statusCode": 200,
+  "message": "Success!",
+  "data": [
+    {
+      "id": 1,
+      "title": "Paid event",
+      "isActive": true,
+      "created_at": "2024-01-17T14:28:27.417Z",
+      "updated_at": "2024-01-17T14:28:27.417Z",
+      "deleted_at": null
+    },
+    {
+      "id": 2,
+      "title": "Collaborative event",
+      "isActive": true,
+      "created_at": "2024-01-17T14:29:00.161Z",
+      "updated_at": "2024-01-17T14:29:00.161Z",
+      "deleted_at": null
+    },
+    {
+      "id": 3,
+      "title": "Call for casting",
+      "isActive": true,
+      "created_at": "2024-01-17T14:29:15.328Z",
+      "updated_at": "2024-01-17T14:29:15.328Z",
+      "deleted_at": null
+    }
+  ]
+}

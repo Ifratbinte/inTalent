@@ -1,0 +1,5 @@
+{
+  "message": "Requires authentication",
+  "error": "Unauthorized",
+  "statusCode": 401
+}
